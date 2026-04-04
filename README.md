@@ -8,7 +8,6 @@ I started with game engines, multiplayer systems, and real-time 3D — shipped t
 
 - **Game Development** — 10 years of Unity, C#, multiplayer networking, shader programming, editor tooling, and performance optimization
 - **AI Developer Tooling** — multi-agent systems, Claude Code plugins, autonomous workflows, local-first model routing
-- **Full Stack** — Python, TypeScript, Dart/Flutter, Firebase, cloud infrastructure
 
 ## Projects
 
@@ -23,7 +22,7 @@ I started with game engines, multiplayer systems, and real-time 3D — shipped t
 
 ## Tech & Tools
 
-`Unity` · `C#` · `Claude Code` · `Python` · `TypeScript` · `Dart/Flutter` · `Firebase` · `Ollama` · `MCP`
+`Unity` · `C#` · `Claude Code` · `MCP` · `Ollama`
 
 ## Connect
 
