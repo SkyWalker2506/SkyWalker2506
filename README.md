@@ -1,13 +1,14 @@
 # Hi, I'm Musab 👋
 
-**10 years in game development** with Unity & C#, now building AI-powered developer tooling.
+**10 years in game development** with Unity & C#.
+Now I design, architect, and ship products with AI — I direct, AI executes.
 
-I started with game engines, multiplayer systems, and real-time 3D — shipped titles, built tools for studios, and learned that good architecture matters more than any single technology. That same mindset now drives my work on multi-agent orchestration and autonomous workflows.
+From multi-agent orchestration systems to Flutter packages and Claude Code plugins, I focus on building things that actually work rather than just writing code.
 
-## Background
+## What I Build
 
-- **Game Development** — 10 years of Unity, C#, multiplayer networking, shader programming, editor tooling, and performance optimization
-- **AI Developer Tooling** — multi-agent systems, plugins, autonomous workflows, local-first model routing
+- **AI-assisted products** — multi-agent systems, plugin ecosystems, autonomous workflows
+- **Game development** — Unity, C#, multiplayer networking, shader programming, editor tooling
 
 ## Projects
 
@@ -17,12 +18,12 @@ I started with game engines, multiplayer systems, and real-time 3D — shipped t
 | [claude-marketplace](https://github.com/SkyWalker2506/claude-marketplace) | Claude Code Plugin Marketplace — 14 plugins, one-command install |
 | [ccplugin-telegram](https://github.com/SkyWalker2506/ccplugin-telegram) | Telegram bridge for Claude Code — text, photo, voice with Whisper |
 | [ccplugin-autonomous-ops](https://github.com/SkyWalker2506/ccplugin-autonomous-ops) | Zero-question autonomous modes — /yolo and /team-build |
-| [ccplugin-jira-suite](https://github.com/SkyWalker2506/ccplugin-jira-suite) | Complete Jira management with Atlassian MCP |
-| [ccplugin-ai-review](https://github.com/SkyWalker2506/ccplugin-ai-review) | Free AI-powered PR review via OpenRouter |
+| [flutter_feedback_kit](https://github.com/SkyWalker2506/flutter_feedback_kit) | Flutter package — in-app feedback widget with voice, offline queue, webhooks |
+| [Code-Base](https://github.com/SkyWalker2506/Code-Base) | Unity package — 22 reusable runtime systems |
 
 ## Tech & Tools
 
-`Unity` · `C#` · `AI Tools` · `Claude Code`
+`Unity` · `C#` · `Claude Code` · `AI Tools`
 
 ## Connect
 
