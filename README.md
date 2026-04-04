@@ -16,8 +16,6 @@ From multi-agent orchestration systems to Flutter packages and Claude Code plugi
 |---------|-------------|
 | [claude-config](https://github.com/SkyWalker2506/claude-config) | Multi-Agent OS for Claude Code — 110 agents, 13 categories, local-first routing |
 | [claude-marketplace](https://github.com/SkyWalker2506/claude-marketplace) | Claude Code Plugin Marketplace — 14 plugins, one-command install |
-| [ccplugin-telegram](https://github.com/SkyWalker2506/ccplugin-telegram) | Telegram bridge for Claude Code — text, photo, voice with Whisper |
-| [ccplugin-autonomous-ops](https://github.com/SkyWalker2506/ccplugin-autonomous-ops) | Zero-question autonomous modes — /yolo and /team-build |
 | [flutter_feedback_kit](https://github.com/SkyWalker2506/flutter_feedback_kit) | Flutter package — in-app feedback widget with voice, offline queue, webhooks |
 | [Code-Base](https://github.com/SkyWalker2506/Code-Base) | Unity package — 22 reusable runtime systems |
 
