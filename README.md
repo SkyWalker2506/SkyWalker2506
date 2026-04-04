@@ -21,10 +21,11 @@ Now I design, architect, and ship products with AI — I direct, AI executes.
 
 | Project | Description |
 |---------|-------------|
-| [claude-config](https://github.com/SkyWalker2506/claude-config) | Multi-Agent OS for Claude Code — 110 agents, local-first routing, cost-aware orchestration |
-| [claude-marketplace](https://github.com/SkyWalker2506/claude-marketplace) | Claude Code Plugin Marketplace — 14 open-source plugins, one-command install |
-| [flutter_feedback_kit](https://github.com/SkyWalker2506/flutter_feedback_kit) | Flutter package — in-app feedback with voice input, offline queue, webhooks |
-| [Code-Base](https://github.com/SkyWalker2506/Code-Base) | Unity package (UPM) — 22 reusable runtime systems for game development |
+| [claude-config](https://github.com/SkyWalker2506/claude-config) | Multi-Agent OS for Claude Code — 131 agents, 15 categories, local-first routing |
+| [claude-agent-catalog](https://github.com/SkyWalker2506/claude-agent-catalog) | AI Agent Catalog — browse & activate 131 agents by category |
+| [claude-marketplace](https://github.com/SkyWalker2506/claude-marketplace) | Claude Code Plugin Marketplace — 14 open-source plugins |
+| [flutter_feedback_kit](https://github.com/SkyWalker2506/flutter_feedback_kit) | Flutter package — in-app feedback with voice, offline queue, webhooks |
+| [Code-Base](https://github.com/SkyWalker2506/Code-Base) | Unity package (UPM) — 22 reusable runtime systems |
 
 ## GitHub Stats
 
