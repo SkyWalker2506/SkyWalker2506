@@ -2,12 +2,12 @@
 
 **10 years in game development** with Unity & C#, now building AI-powered developer tooling.
 
-I started with game engines, multiplayer systems, and real-time 3D — shipped titles, built tools for studios, and learned that good architecture matters more than any single technology. That same mindset now drives my work on multi-agent orchestration and autonomous workflows for Claude Code.
+I started with game engines, multiplayer systems, and real-time 3D — shipped titles, built tools for studios, and learned that good architecture matters more than any single technology. That same mindset now drives my work on multi-agent orchestration and autonomous workflows.
 
 ## Background
 
 - **Game Development** — 10 years of Unity, C#, multiplayer networking, shader programming, editor tooling, and performance optimization
-- **AI Developer Tooling** — multi-agent systems, Claude Code plugins, autonomous workflows, local-first model routing
+- **AI Developer Tooling** — multi-agent systems, plugins, autonomous workflows, local-first model routing
 
 ## Projects
 
@@ -22,7 +22,7 @@ I started with game engines, multiplayer systems, and real-time 3D — shipped t
 
 ## Tech & Tools
 
-`Unity` · `C#` · `Claude Code` · `MCP` · `Ollama`
+`Unity` · `C#` · `AI Tools` · `Claude Code`
 
 ## Connect
 
